@@ -1,0 +1,146 @@
+.top {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 150px;
+}
+
+.middle-container {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+p {
+    line-height: 2;
+}
+
+.profile {
+    width: 50%;
+    margin: 100px auto;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+
+.head-4-margin {
+    margin: 50px auto;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 10px auto 50px;
+}
+
+.last-line {
+    color: #E4F9F5;
+    margin-bottom: 0;
+    font-size: 0.75rem;
+}
+
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514e;
+}
+
+#para {
+    margin: 0px auto 50px auto;
+    font-size: 2rem;
+}
+
+h1 {
+    color: #66BFBF;
+    margin: 0px auto 0px auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.62rem;
+}
+
+h2 {
+    text-align: center;
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: 2.6rem;
+    margin: 10px auto 0 auto;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.cloud-1 {
+    position: absolute;
+    top: 60px;
+    right: 200px;
+}
+
+.cloud-2 {
+    display: block;
+    position: absolute;
+    top: 300px;
+    left: 200px;
+}
+
+.mountain {
+    position: relative;
+    left: 7%;
+}
+
+hr {
+    border-style: dotted none none none;
+    border-width: 5px;
+    border-color: #D3D3D3;
+    width: 5%;
+    margin: 100px auto;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+}
+
+.skills {
+    text-align: left;
+}
+
+.code-img {
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+}
+
+.game-img {
+    width: 25%;
+    float: right;
+}
+
+.btn {
+    -webkit-border-radius: 9;
+    -moz-border-radius: 9;
+    border-radius: 9px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 19px;
+    background: #11999E;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #66BFBF;
+    text-decoration: none;
+}
+
+a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
